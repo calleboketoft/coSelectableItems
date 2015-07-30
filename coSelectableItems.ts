@@ -1,5 +1,3 @@
-import angular from 'angular'
-
 let coSelectableItemsTemplate = `<div>
   <!-- selectable items: available -->
   <div class="row">
